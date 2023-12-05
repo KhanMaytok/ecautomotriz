@@ -37,7 +37,7 @@ RUN apk --no-cache add g++ make autoconf \
 
 ENV TZ="America/Lima"
 
-# Move php configuration file
+# Move php configuration files
 COPY ./php.ini-production "$PHP_INI_DIR/php.ini"
 COPY ./www.conf /usr/local/etc/php-fpm.d/www.conf
 
