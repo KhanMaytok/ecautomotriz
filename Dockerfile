@@ -44,7 +44,7 @@ COPY ./www.conf /usr/local/etc/php-fpm.d/www.conf
 
 WORKDIR /var/www/html
 
-# Copy your Symfony application files into the container
+# Copy your Symfony application files into the containers
 COPY . /var/www/html
 
 # Copy nginx file
