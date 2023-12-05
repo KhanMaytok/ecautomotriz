@@ -1,0 +1,49 @@
+.G	{COLOR:#FFFFFF;}
+
+.frmline  { background-color: #FFFFFF; border: 2px #597B97 solid; }
+
+td	{ font:70%/126% verdana, arial, helvetica, sans-serif;}
+
+body,div,span,p {font-family: Tahoma, Arial, sans-serif; }
+body {margin: 0px 0px 0px 0px;}
+body a {text-decoration: none;}
+
+th	{
+	color: #FFFFFF; font-size: 12px; font-weight : bold;
+	background-color: #597B97; height: 25px;
+}
+
+
+.gridfilaon {font-family: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE:12px; PADDING-LEFT:3px;PADDING-RIGHT:3px;BACKGROUND-COLOR:#C1CDD8;} 
+.T	{font-family: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE:12px; PADDING-LEFT:3px;PADDING-RIGHT:3px;BACKGROUND-COLOR:#e9f2f8;BORDER:1px solid #336699;CURSOR:pointer;}
+
+.gridfilaoff{font-family: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE:12px; PADDING-LEFT:4px;PADDING-RIGHT:4px;}
+.P	{font-family: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE:12px; PADDING-LEFT:4px;PADDING-RIGHT:4px;CURSOR:pointer;}
+
+.marco{background-color: #D1D7DC; }
+.etiqueta{background-color: #D1D7DC;font-weight: bold; font-size: 10px; color:#006699; text-decoration: none;}
+.objeto{
+	background-color: #EFEFEF;
+	/*text-align: center;*/
+}
+
+.cajatexto{font-family: Tahoma, Verdana, Arial; font-size: 11px; color: #333333; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; border-color:#CCCCCC;}
+
+.cajatextotarjeta{font-family: Arial,Tahoma, Verdana; font-size: 8.5px; font-weight:bold; color: #333333; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-color:#CCCCCC;}
+
+.cajatextoplaca{font-family: Arial,Tahoma, Verdana; font-size: 16px; font-weight:bold; color: #333333; border-style: solid; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px; border-color:#CCCCCC;}
+
+.boton
+{
+	border-right: #cccccc 1px outset;
+	border-top: #cccccc 1px outset;
+	background-repeat: repeat-x;
+    background-color:transparent;
+}
+
+td.catBottom {
+			background-color:#D1D7DC; border: #FFFFFF; border-style: solid; height: 19px;border-width: 0px 1px 1px 1px;
+			height: 20px;border-width: 0px 0px 0px 0px;
+}
+
+td.spaceRow {	background-color: #D1D7DC; border: #FFFFFF; border-style: solid;border-width: 0px 1px 0px 1px; }
